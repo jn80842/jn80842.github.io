@@ -1,0 +1,15 @@
+  body {
+    font-family: Palatino;
+  }
+  h1 {
+    font-family: Palatino;
+  }
+  h2 { 
+    font-family: Palatino;
+  }
+  .jumbotron {
+    padding-bottom: 0px;
+  }
+  .container .navbar-header {
+    margin-left: -30px;
+  }
